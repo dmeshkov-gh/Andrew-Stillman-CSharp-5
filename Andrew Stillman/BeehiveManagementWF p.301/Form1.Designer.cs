@@ -104,7 +104,7 @@
             this.btnAssignJob.TabIndex = 2;
             this.btnAssignJob.Text = "Assign this job to a bee";
             this.btnAssignJob.UseVisualStyleBackColor = true;
-            this.btnAssignJob.Click += new System.EventHandler(this.btnAssignJob_Click);
+            this.btnAssignJob.Click += new System.EventHandler(this.BtnAssignJob_Click);
             // 
             // btnNextShift
             // 
@@ -115,7 +115,7 @@
             this.btnNextShift.TabIndex = 1;
             this.btnNextShift.Text = "Work the next shift";
             this.btnNextShift.UseVisualStyleBackColor = true;
-            this.btnNextShift.Click += new System.EventHandler(this.btnNextShift_Click);
+            this.btnNextShift.Click += new System.EventHandler(this.BtnNextShift_Click);
             // 
             // tBoxReport
             // 

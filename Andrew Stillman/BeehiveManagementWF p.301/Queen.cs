@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace BeehiveManagementWF_p._301
 {
-    class Queen
+    class Queen : Bee
     {
+        #region Fields, properties and constructors
         Worker[] _myWorkers;
         int shiftNumber = 0;
-        public Queen(Worker[] workers)
+        public Queen(Worker[] workers, double weightMg) : base(weightMg)
         {
             _myWorkers = workers;
         }
+        #endregion
+
         public bool AssignWork(string job, int shifts) //Просматриваем рабочих, при наличии свободных пчёл даем задание
         { 
             foreach(Worker worker in _myWorkers)
@@ -23,9 +26,11 @@ namespace BeehiveManagementWF_p._301
         public string WorkTheNextShift() //Отработать одну смену
         {
             shiftNumber++;
+            double honeyConsumedForTheShift = this.HoneyConsumptionRate();
             string report = "Report for shift # " + shiftNumber + "\r\n";
             for(int i = 0; i < _myWorkers.Length; i++)
             {
+                honeyConsumedForTheShift += _myWorkers[i].HoneyConsumptionRate();
                 if (_myWorkers[i].DidYouFinish())
                     report += $"Worker #{i + 1} " + "finished the job\r\n";
                 if (String.IsNullOrEmpty(_myWorkers[i].CurrectJob))
@@ -36,6 +41,7 @@ namespace BeehiveManagementWF_p._301
                 else
                     report += $"Worker #{i + 1} " + "is finishing " + _myWorkers[i].CurrectJob + " after this shift\r\n";
             }
+            report += "Total honey consumed for the shift " + honeyConsumedForTheShift + " units\r\n";
             return report;
         }
     }
