@@ -26,7 +26,7 @@ namespace BeehiveManagementWF_p._301
         public string WorkTheNextShift() //Отработать одну смену
         {
             shiftNumber++;
-            double honeyConsumedForTheShift = this.HoneyConsumptionRate();
+            double honeyConsumedForTheShift = HoneyConsumptionRate();
             string report = "Report for shift # " + shiftNumber + "\r\n";
             for(int i = 0; i < _myWorkers.Length; i++)
             {
