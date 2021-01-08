@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IClown.cs" />
+    <Compile Include="Classes\FunnyFunny.cs" />
+    <Compile Include="Classes\ScaryScary.cs" />
+    <Compile Include="Interfaces\IClown.cs" />
+    <Compile Include="Interfaces\IScaryClown.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TallGuy.cs" />
+    <Compile Include="Classes\TallGuy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
