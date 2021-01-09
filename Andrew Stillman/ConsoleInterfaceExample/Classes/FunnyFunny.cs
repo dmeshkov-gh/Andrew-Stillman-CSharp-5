@@ -8,7 +8,7 @@ namespace ConsoleInterfaceExample
 {
     class FunnyFunny : IClown
     {
-        private string _funnyThingIHave;
+        protected string _funnyThingIHave;
         public FunnyFunny(string funnyThingsIhave)
         {
             _funnyThingIHave = funnyThingsIhave;

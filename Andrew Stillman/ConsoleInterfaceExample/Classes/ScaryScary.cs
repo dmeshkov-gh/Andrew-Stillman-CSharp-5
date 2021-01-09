@@ -8,7 +8,7 @@ namespace ConsoleInterfaceExample
 {
     class ScaryScary : FunnyFunny, IScaryClown
     {
-        private int _numberOfScaryThings;
+        private readonly int _numberOfScaryThings;
         public ScaryScary(string funnyThingIHave, int numberOfScaryThings) : base(funnyThingIHave)
         {
             _numberOfScaryThings = numberOfScaryThings;
@@ -17,7 +17,7 @@ namespace ConsoleInterfaceExample
 
         public void ScareLittlyChildren()
         {
-            Console.WriteLine("I've got you!");
+            Console.WriteLine("I can't take" + _funnyThingIHave);
         }
     }
 }

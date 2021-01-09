@@ -8,12 +8,13 @@ namespace ConsoleInterfaceExample
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            ScaryScary scaryScary = new ScaryScary("big shoes", 14);
-            FunnyFunny funnyFunny = scaryScary;
-            IScaryClown someOtherScaryClown = funnyFunny as ScaryScary;
+            ScaryScary fingersTheClown = new ScaryScary("big shoes", 14);
+            FunnyFunny someFunnyClown = fingersTheClown;
+            IScaryClown someOtherScaryClown = someFunnyClown as ScaryScary;
             someOtherScaryClown.Honk();
-            Console.ReadKey();        }
+            Console.ReadKey();        
+        }
     }
 }
