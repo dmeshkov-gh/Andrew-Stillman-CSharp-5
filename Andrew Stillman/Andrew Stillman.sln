@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInterfaceExample p.3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingHouse", "BuildingHouse\BuildingHouse.csproj", "{F8880B9F-AD60-4638-BCAD-F86F703E54AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideAndSeekGame", "HideAndSeekGame\HideAndSeekGame.csproj", "{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F8880B9F-AD60-4638-BCAD-F86F703E54AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8880B9F-AD60-4638-BCAD-F86F703E54AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8880B9F-AD60-4638-BCAD-F86F703E54AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
