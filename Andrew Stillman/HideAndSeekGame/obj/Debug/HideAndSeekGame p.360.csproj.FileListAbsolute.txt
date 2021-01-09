@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\HideAndSeekGame\bin\Debug\HideAndSeekGame.exe.config
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\HideAndSeekGame\bin\Debug\HideAndSeekGame.exe
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\HideAndSeekGame\bin\Debug\HideAndSeekGame.pdb
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\HideAndSeekGame\obj\Debug\HideAndSeekGame.Form1.resources
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\HideAndSeekGame\obj\Debug\HideAndSeekGame.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\HideAndSeekGame\obj\Debug\HideAndSeekGame p.360.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\HideAndSeekGame\obj\Debug\HideAndSeekGame p.360.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\HideAndSeekGame\obj\Debug\HideAndSeekGame.exe
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\HideAndSeekGame\obj\Debug\HideAndSeekGame.pdb

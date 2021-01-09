@@ -42,7 +42,7 @@
             this.goThroughTheDoor_btn.Name = "goThroughTheDoor_btn";
             this.goThroughTheDoor_btn.Size = new System.Drawing.Size(307, 23);
             this.goThroughTheDoor_btn.TabIndex = 0;
-            this.goThroughTheDoor_btn.Text = "Go through the door";
+            this.goThroughTheDoor_btn.Text = "Go through the exterior door";
             this.goThroughTheDoor_btn.UseVisualStyleBackColor = true;
             this.goThroughTheDoor_btn.Visible = false;
             this.goThroughTheDoor_btn.Click += new System.EventHandler(this.goThroughTheDoor_btn_Click);
