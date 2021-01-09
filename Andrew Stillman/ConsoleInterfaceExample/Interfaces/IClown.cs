@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BeehiveManagementWF_p._301
+namespace ConsoleInterfaceExample
 {
-    class Worker
+    interface IClown
     {
+        string FunnyThingIHave { get; }
+        void Honk();
     }
 }

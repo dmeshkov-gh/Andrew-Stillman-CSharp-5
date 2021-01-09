@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{507C09FB-681E-461F-892D-D037DAC9A622}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
-    <RootNamespace>BeehiveManagementWF_p._301</RootNamespace>
-    <AssemblyName>BeehiveManagementWF p.301</AssemblyName>
+    <ProjectGuid>{8FE6DF04-DA64-4820-93DE-31FAF5910652}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ConsoleInterfaceExample</RootNamespace>
+    <AssemblyName>ConsoleInterfaceExample</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -39,50 +39,17 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Deployment" />
-    <Reference Include="System.Drawing" />
     <Reference Include="System.Net.Http" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bee.cs" />
-    <Compile Include="Classes\NectarStinger.cs" />
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Interfaces\INectarCollector.cs" />
-    <Compile Include="Interfaces\IStingPatrol.cs" />
-    <Compile Include="Classes\NectarCollector.cs" />
+    <Compile Include="Classes\FunnyFunny.cs" />
+    <Compile Include="Classes\ScaryScary.cs" />
+    <Compile Include="Interfaces\IClown.cs" />
+    <Compile Include="Interfaces\IScaryClown.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Classes\Queen.cs" />
-    <Compile Include="Classes\StingPatrol.cs" />
-    <Compile Include="Classes\Worker.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
-    <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
-    </None>
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Settings.settings</DependentUpon>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
+    <Compile Include="Classes\TallGuy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeehiveManagementWF p.301", "BeehiveManagementWF p.301\BeehiveManagementWF p.301.csproj", "{507C09FB-681E-461F-892D-D037DAC9A622}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInterfaceExample p.320", "ConsoleInterfaceExample\ConsoleInterfaceExample p.320.csproj", "{8FE6DF04-DA64-4820-93DE-31FAF5910652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingHouse p.352", "BuildingHouse\BuildingHouse p.352.csproj", "{F8880B9F-AD60-4638-BCAD-F86F703E54AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideAndSeekGame p.360", "HideAndSeekGame\HideAndSeekGame p.360.csproj", "{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{507C09FB-681E-461F-892D-D037DAC9A622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{507C09FB-681E-461F-892D-D037DAC9A622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{507C09FB-681E-461F-892D-D037DAC9A622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE6DF04-DA64-4820-93DE-31FAF5910652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE6DF04-DA64-4820-93DE-31FAF5910652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE6DF04-DA64-4820-93DE-31FAF5910652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE6DF04-DA64-4820-93DE-31FAF5910652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8880B9F-AD60-4638-BCAD-F86F703E54AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8880B9F-AD60-4638-BCAD-F86F703E54AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8880B9F-AD60-4638-BCAD-F86F703E54AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8880B9F-AD60-4638-BCAD-F86F703E54AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA1C3DA-60AF-4B83-BF35-3351A779CD7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

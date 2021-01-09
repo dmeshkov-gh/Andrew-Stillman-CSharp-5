@@ -1,0 +1,10 @@
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\bin\Debug\BuildingHouse.exe.config
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\bin\Debug\BuildingHouse.exe
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\bin\Debug\BuildingHouse.pdb
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\obj\Debug\BuildingHouse.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\obj\Debug\BuildingHouse.Form1.resources
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\obj\Debug\BuildingHouse.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\obj\Debug\BuildingHouse.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\obj\Debug\BuildingHouse.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\obj\Debug\BuildingHouse.exe
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\BuildingHouse\obj\Debug\BuildingHouse.pdb

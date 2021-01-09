@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\ConsoleInterfaceExample\bin\Debug\ConsoleInterfaceExample.exe.config
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\ConsoleInterfaceExample\bin\Debug\ConsoleInterfaceExample.exe
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\ConsoleInterfaceExample\bin\Debug\ConsoleInterfaceExample.pdb
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\ConsoleInterfaceExample\obj\Debug\ConsoleInterfaceExample p.320.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\ConsoleInterfaceExample\obj\Debug\ConsoleInterfaceExample p.320.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\ConsoleInterfaceExample\obj\Debug\ConsoleInterfaceExample.exe
+C:\Users\Andrew\Desktop\Программирование\Эндрю Стиллман\Andrew Stillman\ConsoleInterfaceExample\obj\Debug\ConsoleInterfaceExample.pdb

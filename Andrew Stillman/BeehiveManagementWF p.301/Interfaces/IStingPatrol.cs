@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace BeehiveManagementWF_p._301
 {
-    class Queen
+    interface IStingPatrol
     {
+        int AlertLevel { get; }
+        int StingerLenght { get; set; }
+        bool LookForEnemies();
+        int SharpenStinger(int lenght);
     }
 }
